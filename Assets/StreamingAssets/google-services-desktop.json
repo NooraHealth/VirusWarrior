@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "42603667576",
+    "firebase_url": "https://gocoronanoorahealth.firebaseio.com",
+    "project_id": "gocoronanoorahealth",
+    "storage_bucket": "gocoronanoorahealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42603667576:android:6651ed9080bf3a0fdbcd8d",
+        "android_client_info": {
+          "package_name": "com.noorahealth.gocorona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42603667576-ir691foh3vvn3shon7hd7dc8vvokohna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB092bEx4HOY68GRn0FXY1bFItpwCFHtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42603667576-ir691foh3vvn3shon7hd7dc8vvokohna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42603667576-ee5ac3o3hcqint9oqabfiv4ogj1l8gu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noorahealth.viruswarrior"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42603667576:android:d90eddb41e9b3a13dbcd8d",
+        "android_client_info": {
+          "package_name": "com.noorahealth.viruswarrior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42603667576-ir691foh3vvn3shon7hd7dc8vvokohna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB092bEx4HOY68GRn0FXY1bFItpwCFHtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42603667576-ir691foh3vvn3shon7hd7dc8vvokohna.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42603667576-ee5ac3o3hcqint9oqabfiv4ogj1l8gu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noorahealth.viruswarrior"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
